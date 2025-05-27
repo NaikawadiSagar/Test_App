@@ -32,5 +32,10 @@ namespace Test_App.Controllers
         {
             return View();
         }
+        
+        public void GetallDetails()
+        {
+            string str = "Fork Infosystem";
+        }
     }
 }
